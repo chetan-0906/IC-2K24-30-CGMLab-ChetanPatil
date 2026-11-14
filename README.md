@@ -9,17 +9,3 @@ This repository contains the Computer Graphics and Multimedia Lab programs, prac
 
 The repository covers fundamental computer graphics concepts, including graphics primitives, 2D transformations, line and circle drawing algorithms, polygon operations, clipping, and other graphical techniques.
 
-Repository Structure
-IC-2K24-30-CGMLab-ChetanPatil/
-│
-├── CGM_Lab1/
-│   ├── LAB1_BasicShapes.cpp
-│   ├── image.png
-│   └── README.md
-│
-├── CGM_Lab2/
-│   ├── LAB2_DDA.cpp
-│   ├── image1.png
-│   └── README.md
-│
-└── README.md
