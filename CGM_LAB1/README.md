@@ -110,8 +110,8 @@ After completing this assignment, the following concepts are understood:
 
 ## Student Details
 
-**Name:** Ishaan Sharma  
-**Roll Number:** IC-2K24-39  
+**Name:** Chetan Patil
+**Roll Number:** IC-2K24-30
 **Course:** MCA (5 Years)  
 **Subject:** Computer Graphics  
 **Assignment:** Lab Assignment 1
