@@ -58,7 +58,6 @@ A triangle is created by drawing three connected straight lines using the `line(
 | `circle()` | Draws a circle |
 | `rectangle()` | Draws a rectangle |
 | `getch()` | Waits for a key press |
-| `closegraph()` | Closes the graphics mode |
 
 ---
 
@@ -91,7 +90,6 @@ The program displays the following four graphics primitives in a single graphics
 - GCC / MinGW
 - `graphics.h` library
 - `conio.h` library
-- Visual Studio Code or any compatible C++ IDE
 
 ---
 
